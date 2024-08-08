@@ -2,8 +2,8 @@ import java.util.Scanner;
 public class Example{
     public static void main(String[] args)
     {
-        Scanner read=new Scanner(System.in);
         int a,b;
+        Scanner read=new Scanner(System.in);
         a=read.nextInt();
         b=read.nextInt();
         if(a>b)
